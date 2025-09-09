@@ -1,0 +1,38 @@
+
+.wrap{
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(198, 255, 255);
+}
+
+body{
+    text-align: center;
+}
+
+#songlink{
+    position: fixed;
+    bottom: 40px;
+    left: 200px;
+    border: 1px black solid;
+    background-color: rgb(255, 186, 186);
+}
+
+.songlink{
+    margin: 0%;
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.clear{
+    clear: left;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h3{
+    margin-top: 0;
+}
